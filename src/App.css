@@ -75,9 +75,9 @@ img{
     justify-content: center;
 }
 .img-con {
-  width: 180px;
+  width: 170px;
   height: 240px;
-  margin: 2px;
+  margin: 12px;
 }
 
 .img-con img{
