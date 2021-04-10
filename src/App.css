@@ -68,16 +68,16 @@ img{
 
   .imgs-con {
     display: flex;
-    width: 80%;
+    width: 100%;
     margin: auto;
     margin-top: 0px;
     flex-wrap: wrap;
     justify-content: center;
 }
 .img-con {
-  width: 120px;
-  height: 220px;
-  margin: 10px;
+  width: 180px;
+  height: 260px;
+  margin: 13px;
 }
 
 .img-con img{
