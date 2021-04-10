@@ -48,3 +48,45 @@ img{
   align-items: center;
   justify-content: center;
 }
+
+@media only screen and (max-width: 950px) {
+  .header img {
+    width: 150px;
+    height: auto;
+    border: none;
+  }
+
+  h1{
+    font-size: 24px;
+    margin-top: 5px;
+    margin-bottom: 0;
+  }
+
+  h2{
+    font-size: 15px;
+  }
+
+  .imgs-con {
+    display: flex;
+    width: 80%;
+    margin: auto;
+    margin-top: 0px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.img-con {
+  width: 115px;
+  height: 180px;
+  margin: 10px;
+}
+
+.img-con img{
+  border: 2px solid white;
+  border-radius: 4px;
+}
+.header{
+  height: 100px;
+}
+
+
+}
