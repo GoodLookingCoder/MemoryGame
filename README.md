@@ -1,6 +1,6 @@
 # Memory Game
 
-You are presented with multiple images from the The images get shuffled every-time they are clicked. You can not click on any 
+You are presented with multiple images from the Breaking Bad API. The images get shuffled every-time they are clicked. You can not click on any 
 image more than once or else your score resets to zero. The main objective is to get the highest score as possible.
 
 [View Live](https://breaking-bad-mg.herokuapp.com/)
